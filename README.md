@@ -15,6 +15,9 @@ This repo was created to help others create their own GitHub Pages site. It will
 
 ## Recommended Resources
 - For tutorials and help with Markdown, visit [this guide](markdownguide.org/getting-started/ "Markdown Tutorials").
+
+- To learn more about GitHub itself, click [here](https://guides.github.com/ "GitHub Help").
+
 - For help with GitHub Desktop, see [this](https://help.github.com/en/desktop/getting-started-with-github-desktop "GitHub Desktop Help").
 
 ## Contributors
