@@ -12,6 +12,7 @@ This repo was created to help others create their own GitHub Pages site. It will
 - For pushing and pulling code to and from the repository, I would recommend getting [GitHub Desktop](https://desktop.github.com/ "GitHub Desktop"). It's very easy to use, especially for beginners.
 
 - Lastly, I would recommend [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") in order to edit the Markdown files that you will use for the website. A link for assistance with Markdown can be found below.
+
 ## Recommended Resources
 - For tutorials and help with Markdown, visit [this guide](markdownguide.org/getting-started/ "Markdown Tutorials").
 - For help with GitHub Desktop, see [this](https://help.github.com/en/desktop/getting-started-with-github-desktop "GitHub Desktop Help").
