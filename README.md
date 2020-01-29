@@ -13,4 +13,5 @@ This repo is to show people
 ## Contributors
 Michael Crawford - B.S. in Computer Science
 ![Favorite Image](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/kc-skyline-jackie-eatinger.jpg "KC Skyline including Union Station")
+
 Credit to Jackie Eatinger for this beautiful photo
